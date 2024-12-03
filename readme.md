@@ -26,3 +26,7 @@ Add a connection to github
 git remote add origin https://github.com/Aobatrouz/CmdLineDemo.git
 ```
 
+Push to github
+```
+git push origin master
+```
