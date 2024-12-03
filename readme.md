@@ -30,3 +30,20 @@ Push to github
 ```
 git push origin master
 ```
+
+## Branches
+
+Display all branches
+```
+git branch
+```
+
+Create a new branch
+```
+git checkout -b newbranch
+```
+
+Merging
+```
+git merge dev
+```
