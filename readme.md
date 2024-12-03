@@ -48,3 +48,20 @@ Merging
 ```
 git merge dev
 ```
+
+## Summery
+
+Common Commands once set up
+```
+git add -A
+git commit -m "message"
+git push origin master
+git chekcout -b newbranch
+git merge newbranch
+```
+
+More Advanced
+```
+git log
+git reset --hard <commit>
+```
